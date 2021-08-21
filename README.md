@@ -6,8 +6,8 @@ An amazing blog for platzi's git and github course
 y como un amable recordatorio este readme.md es un chiste , diseñado para el ejemplo , no te lo tomes enserio
 
 ## Nunca pares de aprender😸
-<<<<<<< HEAD
+
 Es super Genial ! 
-=======
+
 Es super Genial !
->>>>>>> readme-mejorado
+
